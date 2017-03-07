@@ -1,2 +1,9 @@
 *.pyc
 *.yuv
+*.lhe
+*.mlhe
+*.jpg
+*.mjpeg
+*.jpeg
+*.y4m
+*.bmp
